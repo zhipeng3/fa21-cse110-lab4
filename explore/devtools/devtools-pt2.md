@@ -1,0 +1,1 @@
+1. the bug is both number were string, simply add them is just string concatenation.
